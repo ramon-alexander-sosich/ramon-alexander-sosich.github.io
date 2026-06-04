@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Curriculum Vitae
 
 ## Ramon Alexander Sosich  
