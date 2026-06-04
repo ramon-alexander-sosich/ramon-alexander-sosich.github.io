@@ -8,3 +8,6 @@ nav:
   - Ethical Dissonance Theory: edt.md
   - CV: cv.md
   - Publications: publications.md
+  
+include:
+  - _includes/head-custom.html
