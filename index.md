@@ -31,10 +31,6 @@ A multi‑level framework explaining psychological and institutional drivers of 
 **Preprint (2026):***Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity*  
 DOI: https://doi.org/10.2139/ssrn.6712018
 
-**Full EDT Page:**
-
-**Ethical Dissonance Theory (EDT)**
-
 ## **Selected Profiles & Indexing**
 
 **ORCID:** https://orcid.org/0009-0006-3319-5272
