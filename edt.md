@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ethical Dissonance Theory (EDT)
 
 ## Overview
