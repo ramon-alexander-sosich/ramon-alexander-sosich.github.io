@@ -3,7 +3,9 @@
 BHSc Psychology | Clinical Psychology Pathway
 Auckland University of Technology (AUT)
 Originator of *Ethical Dissonance Theory (EDT)*
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3319--5272-brightgreen)](https://orcid.org/0009-0006-3319-5272)
+
 [![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.6712018-blue)](https://doi.org/10.2139/ssrn.6712018)
 
 
