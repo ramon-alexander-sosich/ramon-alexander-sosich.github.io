@@ -94,25 +94,15 @@ Systems reward compliance and penalise dissent, shaping behaviour over time.
 
 ## 4. Conceptual Flow Diagram (Text‑Based)
 Ethical Tension
-
       ↓
-      
 Micro-Level (Psychological)
-
-      ↓
-      
+      ↓  
 Meso-Level (Social)
-
       ↓
-      
 Macro-Level (Institutional)
-
       ↓
-      
 Conformity Behaviour
-
       ↓
-      
 Reinforcement Loop → Back to Ethical Tension
 
 
