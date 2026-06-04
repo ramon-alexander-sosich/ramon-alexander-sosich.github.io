@@ -11,3 +11,9 @@ nav:
   
 include:
   - _includes/head-custom.html
+includes_dir: _includes
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
