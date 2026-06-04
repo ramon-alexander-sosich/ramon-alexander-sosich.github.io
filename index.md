@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # **Ramon Alexander Sosich**
 
 BHSc Psychology | Clinical Psychology Pathway
