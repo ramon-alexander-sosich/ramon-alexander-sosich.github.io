@@ -122,7 +122,7 @@ This preprint establishes the conceptual foundation and authorship record for ED
 
 ## 7. Citation
 
-**Sosich, R. A. (2026). Ethical Dissonance Theory (EDT): A Multi‑Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity. SSRN. https://doi.org/10.2139/ssrn.6712018**
+**Sosich, R. A. (2026). Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity [Preprint]. SSRN. https://dx.doi.org/10.2139/ssrn.6712018**
 
 ---
 
