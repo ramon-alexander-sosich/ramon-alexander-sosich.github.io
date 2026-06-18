@@ -37,21 +37,21 @@ DOI: https://doi.org/10.2139/ssrn.6712018
 
 ## **Selected Profiles & Indexing**
 
-**ORCID:** https://orcid.org/0009-0006-3319-5272
+**ORCID:** https://orcid.org/0009-0006-3319-5272/
 
-**Google Scholar:** https://scholar.google.com/citations?user=C4vjaAgAAAAJ
+**Google Scholar:** https://scholar.google.com/citations?user=C4vjaAgAAAAJ/
 
-**SSRN (DOI):** https://dx.doi.org/10.2139/ssrn.6712018
+**SSRN (DOI):** https://dx.doi.org/10.2139/ssrn.6712018/
 
-**Zenodo (DOI):** https://doi.org/10.5281/zenodo.19932318
+**Zenodo (DOI):** https://doi.org/10.5281/zenodo.19932318/
 
-**OSF Project:** https://doi.org/10.17605/OSF.IO/45JN8
+**OSF Project:** https://doi.org/10.17605/OSF.IO/45JN8/
 
-**Wikidata (Person):** https://www.wikidata.org/wiki/Q139960145
+**Wikidata (Person):** https://www.wikidata.org/wiki/Q139960145/
 
-**Wikidata (Concept – EDT):** https://www.wikidata.org/wiki/Q139960257
+**Wikidata (Concept – EDT):** https://www.wikidata.org/wiki/Q139960257/
 
-**Wikidata (Work):** https://www.wikidata.org/wiki/Q139963662
+**Wikidata (Work):** https://www.wikidata.org/wiki/Q139963662/
 
 ## **Additional Indexing**
 
