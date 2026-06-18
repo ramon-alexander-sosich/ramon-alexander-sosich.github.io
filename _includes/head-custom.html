@@ -1,43 +1,84 @@
+<!-- Canonical SEO Meta Tags -->
 <meta name="description" content="Ethical Dissonance Theory (EDT) by Ramon Alexander Sosich. A multi-level framework explaining psychological and institutional drivers of scientific conformity.">
-<meta name="keywords" content="Ethical Dissonance Theory, EDT, scientific conformity, institutional ethics, psychology, meta-science, research integrity">
+<meta name="keywords" content="Ethical Dissonance Theory, EDT, scientific conformity, institutional ethics, psychology, meta-science, research integrity, moral disengagement, cognitive dissonance, Auckland University of Technology, AUT">
 <meta name="author" content="Ramon Alexander Sosich">
 
+<!-- Open Graph / Social Media Preview Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ramon Alexander Sosich - Ethical Dissonance Theory (EDT)">
+<meta property="og:description" content="An evolving multi-level conceptual framework examining how psychological, interpersonal, institutional, and systemic pressures contribute to ethical dissonance and conformity in science.">
+<meta property="og:url" content="https://ramon-alexander-sosich.github.io/{{ page.url | remove: 'index.html' }}">
+<meta property="og:site_name" content="Ethical Dissonance Theory (EDT)">
+
+<!-- Conditional JSON-LD Structured Data Matrix -->
+{% if page.url == "/" or page.url == "/index.html" %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Ramon Alexander Sosich",
-  "givenName": "Ramon",
-  "familyName": "Sosich",
-  "jobTitle": "Independent Researcher",
-  "alumniOf": {
-    "@type": "EducationalOrganization",
-    "name": "Auckland University of Technology",
-    "sameAs": "https://en.wikipedia.org/wiki/Auckland_University_of_Technology"
-  },
-  "url": "https://ramon-alexander-sosich.github.io/",
-  "sameAs": [
-    "https://orcid.org/0009-0006-3319-5272",
-    "https://www.wikidata.org/wiki/Q139960145",
-    "https://scholar.google.com/citations?user=C4vjaAgAAAAJ",
-    "https://www.researchgate.net/profile/Ramon-Sosich",
-    "https://www.linkedin.com/in/ramon-alexander-sosich"
-  ],
-  "authorOf": {
-    "@type": "ScholarlyArticle",
-    "name": "Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity",
-    "url": "https://dx.doi.org/10.2139/ssrn.6712018",
-    "sameAs": [
-      "https://dx.doi.org/10.2139/ssrn.6712018",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6712018",
-      "https://www.wikidata.org/wiki/Q139960257",
-      "https://www.wikidata.org/wiki/Q139963662"
-    ],
-    "publisher": {
-      "@type": "Organization",
-      "name": "SSRN"
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://orcid.org/0009-0006-3319-5272",
+    "name": "Ramon Alexander Sosich",
+    "givenName": "Ramon",
+    "familyName": "Sosich",
+    "jobTitle": "Independent Researcher",
+    "gender": "http://schema.org",
+    "nationality": {
+      "@type": "Country",
+      "name": "New Zealand"
     },
-    "datePublished": "2026-05-04"
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": "Auckland University of Technology",
+      "alternateName": "AUT",
+      "sameAs": "https://en.wikipedia.org/wiki/Auckland_University_of_Technology"
+    },
+    "url": "https://ramon-alexander-sosich.github.io/",
+    "sameAs": [
+      "https://orcid.org/0009-0006-3319-5272",
+      "https://www.wikidata.org/wiki/Q139960145",
+      "https://scholar.google.com/citations?user=C4vjaAgAAAAJ",
+      "https://www.researchgate.net/profile/Ramon-Sosich",
+      "https://www.linkedin.com/in/ramon-alexander-sosich"
+    ]
   }
 }
 </script>
+{% endif %}
+
+{% if page.url contains "/edt" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "https://doi.org/10.2139/ssrn.6712018",
+  "mainEntityOfPage": "https://github.io",
+  "headline": "Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity",
+  "description": "An academic conceptual framework addressing why scientists conform to questionable academic norms, consensus pressures, or institutional mandates even when those actions conflict with personal moral values.",
+  "datePublished": "2026-05-04",
+  "author": {
+    "@type": "Person",
+    "name": "Ramon Alexander Sosich",
+    "sameAs": "https://orcid.org/0009-0006-3319-5272"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SSRN",
+    "sameAs": "https://wikipedia.org"
+  },
+  "about": [
+    {"@type": "Thing", "name": "Cognitive Dissonance", "sameAs": "https://wikipedia.org"},
+    {"@type": "Thing", "name": "Moral Disengagement", "sameAs": "https://wikipedia.org"},
+    {"@type": "Thing", "name": "Conformity", "sameAs": "https://wikipedia.org"},
+    {"@type": "Thing", "name": "Metascience", "sameAs": "https://wikipedia.org"}
+  ],
+  "sameAs": [
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6712018",
+    "https://www.wikidata.org/wiki/Q139960257",
+    "https://www.wikidata.org/wiki/Q139963662",
+    "https://doi.org"
+  ]
+}
+</script>
+{% endif %}
