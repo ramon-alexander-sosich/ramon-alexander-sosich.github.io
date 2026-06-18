@@ -142,3 +142,10 @@ EDT is intended as a long-term conceptual research programme and open-science fr
 
 ---
 
+### Development Status
+
+Ethical Dissonance Theory (EDT) is an independent conceptual framework currently under active development. The framework remains theoretical in nature and has not yet undergone peer review or empirical testing. Future revisions may refine, expand, modify, or remove elements of the framework as additional scholarship, critique, and empirical evidence emerge.
+
+Current versions should therefore be interpreted as developmental conceptual work rather than finalized scientific conclusions.
+
+---
