@@ -128,13 +128,17 @@ This preprint establishes the conceptual foundation and authorship record for ED
 
 ## 8. Future Development
 
-Planned expansions include:
+EDT is intended as a long-term conceptual research programme and open-science framework. Planned future developments include:
 
-- A full theoretical monograph  
-- Empirical operationalisation  
-- Measurement tools for ethical dissonance  
-- Case studies in scientific decision‑making  
-- Integration with meta‑scientific reform literature  
+- Publication of a full theoretical monograph expanding and refining the EDT framework.
+- Development of domain-specific conceptual papers and micro-papers exploring individual constructs, mechanisms, and applications.
+- Submission of focused conceptual derivatives to peer-reviewed scholarly journals.
+- Operationalisation of EDT constructs into empirically testable propositions and research questions.
+- Development of measurement approaches for ethical dissonance and related constructs.
+- Case studies and applied analyses across scientific, organisational, healthcare, and institutional contexts.
+- Integration with meta-scientific, psychological, and organisational research literatures.
+- Empirical investigation of selected EDT propositions through future honours, postgraduate, or collaborative research where appropriate.
+- Encouragement of independent scholarly critique, extension, refinement, and testing of EDT concepts by other researchers.
 
 ---
 
