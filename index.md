@@ -6,7 +6,7 @@ layout: default
 
 BHSc Psychology | Clinical Psychology Pathway
 Auckland University of Technology (AUT)
-Originator of *Ethical Dissonance Theory (EDT)*
+Independent Researcher and Developer of *Ethical Dissonance Theory (EDT)*
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3319--5272-brightgreen)](https://orcid.org/0009-0006-3319-5272)
 
@@ -17,7 +17,7 @@ Originator of *Ethical Dissonance Theory (EDT)*
 
 I am an emerging scholar in psychology based in Auckland, New Zealand, pursuing a clinical psychology pathway at AUT. My academic work focuses on the intersection of psychology, ethics, and scientific behaviour, with particular attention to how institutional structures shape decision‑making, conformity, and research integrity.
 
-My current research centres on the development of *Ethical Dissonance Theory (EDT)*, an original multi‑level conceptual framework explaining how psychological and institutional forces interact to produce scientific conformity.
+My current research centres on the development of *Ethical Dissonance Theory (EDT)*, an evolving multi-level conceptual framework examining how psychological, interpersonal, institutional, and systemic pressures contribute to ethical dissonance, conformity, and decision-making across scientific, clinical, and organisational domains
 
 ## **Research Focus**
 
