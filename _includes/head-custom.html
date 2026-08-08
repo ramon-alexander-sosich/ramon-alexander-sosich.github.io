@@ -17,35 +17,71 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "mainEntity": {
-    "@type": "Person",
-    "@id": "https://orcid.org/0009-0006-3319-5272",
-    "name": "Ramon Alexander Sosich",
-    "givenName": "Ramon",
-    "familyName": "Sosich",
-    "jobTitle": "Independent Researcher",
-    "gender": "male",
-    "nationality": {
-      "@type": "Country",
-      "name": "New Zealand"
+  "@graph": [
+
+    {
+      "@type": "WebSite",
+      "@id": "https://ramon-alexander-sosich.github.io/#website",
+      "url": "https://ramon-alexander-sosich.github.io/",
+      "name": "Ramon Alexander Sosich",
+      "about": {
+        "@id": "https://orcid.org/0009-0006-3319-5272"
+      }
     },
-    "alumniOf": {
-      "@type": "EducationalOrganization",
-      "name": "Auckland University of Technology",
-      "alternateName": "AUT",
-      "sameAs": "https://en.wikipedia.org/wiki/Auckland_University_of_Technology"
+
+    {
+      "@type": "ProfilePage",
+      "@id": "https://ramon-alexander-sosich.github.io/#profile",
+      "url": "https://ramon-alexander-sosich.github.io/",
+      "mainEntity": {
+        "@id": "https://orcid.org/0009-0006-3319-5272"
+      }
     },
-    "url": "https://ramon-alexander-sosich.github.io/",
-    "sameAs": [
-      "https://orcid.org/0009-0006-3319-5272",
-      "https://www.wikidata.org/wiki/Q139960145",
-      "https://scholar.google.com/citations?user=C4vjaAgAAAAJ",
-      "https://www.researchgate.net/profile/Ramon-Sosich",
-      "https://www.linkedin.com/in/ramon-alexander-sosich",
-      "https://www.ssrn.com/author=11382828"
-    ]
-  }
+
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0006-3319-5272",
+      "name": "Ramon Alexander Sosich",
+      "givenName": "Ramon",
+      "familyName": "Sosich",
+      "jobTitle": "Independent Researcher",
+      "gender": "male",
+      "nationality": {
+        "@type": "Country",
+        "name": "New Zealand"
+      },
+      "alumniOf": {
+        "@type": "EducationalOrganization",
+        "name": "Auckland University of Technology",
+        "alternateName": "AUT",
+        "sameAs": "https://en.wikipedia.org/wiki/Auckland_University_of_Technology"
+      },
+      "url": "https://ramon-alexander-sosich.github.io/",
+      "sameAs": [
+        "https://orcid.org/0009-0006-3319-5272",
+        "https://www.wikidata.org/wiki/Q139960145",
+        "https://scholar.google.com/citations?user=C4vjaAgAAAAJ",
+        "https://www.researchgate.net/profile/Ramon-Sosich",
+        "https://www.linkedin.com/in/ramon-alexander-sosich",
+        "https://www.ssrn.com/author=11382828"
+      ],
+      "knowsAbout": {
+        "@id": "https://ramon-alexander-sosich.github.io/#edt"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://ramon-alexander-sosich.github.io/#edt",
+      "name": "Ethical Dissonance Theory",
+      "alternateName": "EDT",
+      "creator": {
+        "@id": "https://orcid.org/0009-0006-3319-5272"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q139960145"
+    }
+
+  ]
 }
 </script>
 {% endif %}
