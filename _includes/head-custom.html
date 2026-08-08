@@ -20,14 +20,19 @@
   "@graph": [
 
     {
-      "@type": "WebSite",
-      "@id": "https://ramon-alexander-sosich.github.io/#website",
-      "url": "https://ramon-alexander-sosich.github.io/",
-      "name": "Ramon Alexander Sosich",
-      "about": {
-        "@id": "https://orcid.org/0009-0006-3319-5272"
-      }
+  "@type": "WebSite",
+  "@id": "https://ramon-alexander-sosich.github.io/#website",
+  "url": "https://ramon-alexander-sosich.github.io/",
+  "name": "Ramon Alexander Sosich",
+  "about": [
+    {
+      "@id": "https://orcid.org/0009-0006-3319-5272"
     },
+    {
+      "@id": "https://ramon-alexander-sosich.github.io/edt#theory"
+    }
+  ]
+},
 
     {
       "@type": "ProfilePage",
@@ -66,13 +71,13 @@
         "https://www.ssrn.com/author=11382828"
       ],
       "knowsAbout": {
-        "@id": "https://ramon-alexander-sosich.github.io/#edt"
-      }
+  "@id": "https://ramon-alexander-sosich.github.io/edt#theory"
+}
     },
 
     {
       "@type": "CreativeWork",
-      "@id": "https://ramon-alexander-sosich.github.io/#edt",
+      "@id": "https://ramon-alexander-sosich.github.io/edt#theory",
       "name": "Ethical Dissonance Theory",
       "alternateName": "EDT",
       "creator": {
@@ -97,6 +102,9 @@
       "@id": "https://ramon-alexander-sosich.github.io/edt#webpage",
       "url": "https://ramon-alexander-sosich.github.io/edt",
       "name": "Ethical Dissonance Theory (EDT)",
+      "isPartOf": {
+      "@id": "https://ramon-alexander-sosich.github.io/#website"
+    },
       "description": "An overview of Ethical Dissonance Theory (EDT), a multi-level conceptual framework explaining psychological, social, and institutional drivers of scientific conformity, and the associated independent conceptual research programme.",
       "mainEntity": {
         "@id": "https://ramon-alexander-sosich.github.io/edt#theory"
@@ -127,12 +135,15 @@
     "identity-protective cognition",
     "institutional conformity"
   ],
-  "citation": {
-    "@id": "https://doi.org/10.2139/ssrn.6712018"
-  },
-  "subjectOf": {
-    "@id": "https://doi.org/10.2139/ssrn.6712018"
-  }
+ "citation": {
+  "@id": "https://doi.org/10.2139/ssrn.6712018"
+},
+"subjectOf": {
+  "@id": "https://doi.org/10.2139/ssrn.6712018"
+},
+"mainEntityOfPage": {
+  "@id": "https://ramon-alexander-sosich.github.io/edt#webpage"
+}
 },
 
     {
