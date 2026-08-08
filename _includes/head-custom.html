@@ -90,33 +90,59 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ScholarlyArticle",
-  "@id": "https://doi.org/10.2139/ssrn.6712018",
-  "mainEntityOfPage": "https://github.io",
-  "headline": "Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity",
-  "description": "An academic conceptual framework addressing why scientists conform to questionable academic norms, consensus pressures, or institutional mandates even when those actions conflict with personal moral values.",
-  "datePublished": "2026-05-04",
-  "author": {
-    "@type": "Person",
-    "name": "Ramon Alexander Sosich",
-    "sameAs": "https://orcid.org/0009-0006-3319-5272"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "SSRN",
-    "sameAs": "https://wikipedia.org"
-  },
-  "about": [
-    {"@type": "Thing", "name": "Cognitive Dissonance", "sameAs": "https://en.wikipedia.org/wiki/Cognitive_dissonance"},
-    {"@type": "Thing", "name": "Moral Disengagement", "sameAs": "https://en.wikipedia.org/wiki/Moral_disengagement"},
-    {"@type": "Thing", "name": "Conformity", "sameAs": "https://en.wikipedia.org/wiki/Conformity"},
-    {"@type": "Thing", "name": "Metascience", "sameAs": "https://en.wikipedia.org/wiki/Metascience"}
-  ],
-  "sameAs": [
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6712018",
-    "https://www.wikidata.org/wiki/Q139960257",
-    "https://www.wikidata.org/wiki/Q139963662",
-    "https://doi.org/10.2139/ssrn.6712018"
+  "@graph": [
+
+    {
+      "@type": "WebPage",
+      "@id": "https://ramon-alexander-sosich.github.io/edt#webpage",
+      "url": "https://ramon-alexander-sosich.github.io/edt",
+      "name": "Ethical Dissonance Theory (EDT)",
+      "description": "An overview of Ethical Dissonance Theory (EDT), a multi-level conceptual framework explaining psychological, social, and institutional drivers of scientific conformity, and the associated independent conceptual research programme.",
+      "mainEntity": {
+        "@id": "https://ramon-alexander-sosich.github.io/edt#theory"
+      }
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://ramon-alexander-sosich.github.io/edt#theory",
+      "name": "Ethical Dissonance Theory",
+      "alternateName": "EDT",
+      "description": "A multi-level conceptual framework explaining how psychological, social, and institutional forces interact to produce scientific conformity, particularly where ethical, epistemic, or methodological concerns are present.",
+      "creator": {
+        "@id": "https://orcid.org/0009-0006-3319-5272"
+      },
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q139960257"
+      ],
+      "subjectOf": {
+        "@id": "https://doi.org/10.2139/ssrn.6712018"
+      }
+    },
+
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://doi.org/10.2139/ssrn.6712018",
+      "url": "https://doi.org/10.2139/ssrn.6712018",
+      "headline": "Ethical Dissonance Theory (EDT): A Multi-Level Framework Explaining Psychological and Institutional Drivers of Scientific Conformity",
+      "description": "An academic conceptual framework addressing why scientists conform to questionable academic norms, consensus pressures, or institutional mandates even when those actions conflict with personal moral values.",
+      "datePublished": "2026-05-04",
+      "author": {
+        "@id": "https://orcid.org/0009-0006-3319-5272"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "SSRN"
+      },
+      "about": {
+        "@id": "https://ramon-alexander-sosich.github.io/edt#theory"
+      },
+      "sameAs": [
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6712018",
+        "https://doi.org/10.2139/ssrn.6712018"
+      ]
+    }
+
   ]
 }
 </script>
